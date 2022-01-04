@@ -1,0 +1,17 @@
+    
+    /**
+     * @param panel
+     */
+    public void setColor(JPanel panel){       
+        panel.setBackground(new java.awt.Color(153,0,51));        
+        
+    }
+    
+    /**
+     *
+     * @param panel
+     */
+    public void resetColor(JPanel panel){       
+        panel.setBackground(new java.awt.Color(204,0,51));        
+        
+    }
